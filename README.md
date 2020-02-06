@@ -14,4 +14,4 @@
 <img src="http://g.recordit.co/ena7YSPAnD.gif" width=250><br>
 
 ### Notes
-Fixed the problem where app crashed with the exception: Unknown class ... in Interface Builder file
+Fixed the problem where app crashed with the exception: Unknown class ... in Interface Builder file.
